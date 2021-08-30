@@ -14,7 +14,6 @@ func main() {
 		sl := common.StringSlice(strings.Split(common.ReadNextLine(), " "))
 		matrix[index] = sl.ParseInt()
 	}
-	// matrix := [][]int{{1, 1, 1, 0, 0, 0}, {0, 1, 0, 0, 0, 0}, {1, 1, 1, 0, 0, 0}, {0, 0, 2, 4, 4, 0}, {0, 0, 0, 2, 0, 0}, {0, 0, 1, 2, 4, 0}}
 	fmt.Println(
 		solution(matrix[:]),
 	)
