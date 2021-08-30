@@ -7,6 +7,17 @@ import (
 	"strings"
 )
 
+type StringSlice []string
+
+func (sl StringSlice) ParseInt() []int {
+	parsed := []int{}
+
+	for _, v := range sl {
+		parsed = append(parsed, ParseInt(v))
+	}
+	return parsed
+}
+
 var reader = bufio.NewReader(os.Stdin)
 
 // Reads the next line

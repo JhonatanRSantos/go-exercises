@@ -12,4 +12,8 @@
 *.out
 
 # Dependency directories (remove the comment below to include it)
+<<<<<<< HEAD
 # vendor/
+=======
+# vendor/
+>>>>>>> ec0a074be1a053ab28f9534787b29ed4a49fb53f
