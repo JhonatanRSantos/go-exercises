@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/JhonatanRSantos/go-exercices/common"
+	"github.com/JhonatanRSantos/go-exercises/common"
 )
 
 func main() {

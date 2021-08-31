@@ -1,3 +1,3 @@
-module github.com/JhonatanRSantos/go-exercices
+module github.com/JhonatanRSantos/go-exercises
 
 go 1.16

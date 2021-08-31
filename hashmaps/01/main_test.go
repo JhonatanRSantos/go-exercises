@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/JhonatanRSantos/go-exercices/common"
+	"github.com/JhonatanRSantos/go-exercises/common"
 )
 
 func TestSolution(t *testing.T) {
