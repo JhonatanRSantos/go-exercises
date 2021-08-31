@@ -1,9 +1,9 @@
-<div style="text-align: center;">
+<p align="center">
     <img src="./img/gopher.png" width="300" length="300">
-    <div style="margin: 0px; padding: 20px;">
+    <div align="center" style="margin: 0px; padding: 20px;">
         <h1>Go Exercises</h1>
     </div>
-</div>
+</p>
 
 ## Description 
 <br>
