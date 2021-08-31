@@ -9,7 +9,7 @@
 <br>
 
 **Hello, there!!!** Welcome to my **Golang exercises repo**. This repository was created to track my evolution with Golang.<br>
-This repo is a work in progress, so if you find some error or if you have a better approach to solve a given problem feel free to make a pull request.
+The repo is a work in progress, so if you find some error or if you have a better approach to solve a given problem feel free to make a pull request.
 
 ## List of exercises
 
