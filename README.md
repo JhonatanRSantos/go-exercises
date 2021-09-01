@@ -21,3 +21,6 @@ The repo is a work in progress, so if you find some error or if you have a bette
     1. [2D Array - DS](https://github.com/JhonatanRSantos/go-exercises/tree/main/arrays/01)
     2. [Left Rotation](https://github.com/JhonatanRSantos/go-exercises/tree/main/arrays/02)
     3. [New Year Chaos](https://github.com/JhonatanRSantos/go-exercises/tree/main/arrays/03)
+
+3. HasMap
+    1. [Hash Tables: Ransom Note](https://github.com/JhonatanRSantos/go-exercises/tree/main/hasmaps/01)

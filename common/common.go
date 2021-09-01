@@ -2,6 +2,7 @@ package common
 
 import (
 	"bufio"
+	"io/ioutil"
 	"os"
 	"strconv"
 	"strings"
@@ -39,4 +40,14 @@ func ParseInt(value string) int {
 		panic("Failed parsing to int")
 	}
 	return int(result)
+}
+
+// Read a file
+func ReadFile(fileName string) []byte {
+	bs, err := ioutil.ReadFile(fileName)
+
+	if err != nil {
+		panic("Failed to read file")
+	}
+	return bs
 }
