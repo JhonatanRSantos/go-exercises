@@ -24,3 +24,6 @@ The repo is a work in progress, so if you find some error or if you have a bette
 
 3. HasMap
     1. [Hash Tables: Ransom Note](https://github.com/JhonatanRSantos/go-exercises/tree/main/hashmaps/01)
+
+4. Strings
+    1. [Sherlock and the Valid String](https://github.com/JhonatanRSantos/go-exercises/tree/main/strings/01)
